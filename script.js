@@ -1,3 +1,4 @@
+// script.js
 const SpeechRecognition =
   window.SpeechRecognition || window.webkitSpeechRecognition;
 
